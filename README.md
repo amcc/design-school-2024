@@ -20,9 +20,9 @@ Folders are structured by the technology they use. Both mediaPipe and ml5js do s
   - ml5js-posenet - a starting point for ml5js posenet with multiple people
     - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
     - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
-  - baseic-ml5js-posenet - as above but without the loops to track multiple people
-    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
-    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
+  - basic-ml5js-posenet - as above but without the loops to track multiple people
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/basic-ml5js-posenet/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/basic-ml5js-posenet/)
 
 Machine Learning is the tecnology used to do most AI stuff these days. _ml5js_ amd _MediaPipe_ are 2 leading ways of using machine learning to play on the web.
 
