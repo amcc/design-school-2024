@@ -1,4 +1,4 @@
-# 🧨Design School 2024
+# 🧨 Graduate Showcase 2024
 
 ## 🚀 a set of interactive ideas for the Design School Showcase.
 This repo contains web based code, experimenting with different technology. 
