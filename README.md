@@ -4,24 +4,23 @@
 
 This repo contains web based code, experimenting with different technology.
 
-Folders are structured by tecnology and then by the code system used. For instance:
+Folders are structured by the technology they use. Both mediaPipe and ml5js do similar things here. Both have the ability to track bodies with a system called poseNet. ml5js has more documentation for usage with p5js, however mediaPipe is much better at doing accurate tracking. Below the bezier example uses mediaPipe, its a bit more advanced, but worth it.
 
-- machine learning
-  - ml5js
-    - easyPoseNet - a highly simplified posenet example that only tracks one person
-      - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/easyposenet/)
-      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/easyposenet/)
-    - ml5js-posenet - a starting point for ml5js posenet with multiple people
-      - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
-      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
-    - baseic-ml5js-posenet - as above but without the loops to track multiple people
-      - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
-      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
-  - mediapipe
-    - mediaPipe starter with smoothing -[code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks/) -[web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks/)
-    - mediaPipe with bezier curves
-      - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
-      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+- mediapipe
+  - mediaPipe starter with smoothing -[code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks/) -[web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks/)
+  - mediaPipe with bezier curves
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+- ml5js
+  - easyPoseNet - a highly simplified posenet example that only tracks one person
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/easyposenet/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/easyposenet/)
+  - ml5js-posenet - a starting point for ml5js posenet with multiple people
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
+  - baseic-ml5js-posenet - as above but without the loops to track multiple people
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/ml5js-posenet/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
 
 Machine Learning is the tecnology used to do most AI stuff these days. _ml5js_ amd _MediaPipe_ are 2 leading ways of using machine learning to play on the web.
 
