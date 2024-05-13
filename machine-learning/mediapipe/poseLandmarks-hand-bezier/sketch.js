@@ -30,6 +30,7 @@ function draw() {
   // flip the webcam image so it looks like a mirror
   push();
   scale(-1, 1); // mirror webcam
+
   image(capture, -capture.width, 0); // draw webcam
   scale(-1, 1); // unset mirror
   pop();
@@ -52,6 +53,8 @@ function draw() {
       stroke("black");
       strokeWeight(strokeWeightVal);
 
+      // the ... spreads the arary into individual arguments
+      // i.e. ...lineStart is the same as: lineStart[0], lineStart[1]
       bezier(
         ...lineStart,
         lPerson[19].x,
@@ -167,7 +170,7 @@ function captureWebcam() {
 // dimensions of the camera. This is important because the camera may have
 // different dimensions than the default video element
 function setCameraDimensions() {
-  // resize the capture depending on whether
+  // resize the capture to fit the canvas depending on whether
   // the camera is landscape or portrait
 
   if (capture.width > capture.height) {
