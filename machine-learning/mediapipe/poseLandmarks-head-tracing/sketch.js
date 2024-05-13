@@ -68,6 +68,8 @@ function draw() {
     });
   }
 
+  // add a layer to fade out the trace
+  // headCanvas.background(255, 1);
   image(headCanvas, 0, 0);
 }
 
