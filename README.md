@@ -13,6 +13,9 @@ Folders are structured by the technology they use. Both mediaPipe and ml5js do s
   - mediaPipe with bezier curves
     - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
     - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+  - mediaPipe head tracing leaving a trail
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks-hand-tracing/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-tracing/)
 - ml5js
   - easyPoseNet - a highly simplified posenet example that only tracks one person
     - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/ml5js/easyposenet/)
