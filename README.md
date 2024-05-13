@@ -7,7 +7,9 @@ This repo contains web based code, experimenting with different technology.
 Folders are structured by the technology they use. Both mediaPipe and ml5js do similar things here. Both have the ability to track bodies with a system called poseNet. ml5js has more documentation for usage with p5js, however mediaPipe is much better at doing accurate tracking. Below the bezier example uses mediaPipe, its a bit more advanced, but worth it.
 
 - mediapipe
-  - mediaPipe starter with smoothing -[code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks/) -[web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks/)
+  - mediaPipe starter with smoothing
+    - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks/)
+    - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks/)
   - mediaPipe with bezier curves
     - [code](https://github.com/amcc/graduate-showcase-2024/blob/main/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
     - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
