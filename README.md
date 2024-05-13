@@ -24,3 +24,4 @@ _ml5js_ has _p5js_ examples so is easier to learn, however _mediaPipe_ is better
 - machine learning to track the body
   - [ml5js pose detection](https://learn.ml5js.org/#/reference/posenet)
   - [mediaPipe pose landmark detection](https://mediapipe-studio.webapps.google.com/demo/pose_landmarker)
+  - [about machine learning for tracking](https://coding.amcc.io/#machine-learning)
