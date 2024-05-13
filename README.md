@@ -8,12 +8,20 @@ Folders are structured by tecnology and then by the code system used. For instan
 
 - machine learning
   - ml5js
-    - [easyPoseNet - a highly simplified posenet example that only tracks one person](/machine-learning/ml5js/easyposenet/)
-    - [ml5js-posenet - a starting point for ml5js posenet with multiple people](/machine-learning/ml5js/ml5js-posenet/)
-    - [baseic-ml5js-posenet - as above but without the loops to track multiple people](/machine-learning/ml5js/ml5js-posenet/)
+    - easyPoseNet - a highly simplified posenet example that only tracks one person
+      - [code](/machine-learning/ml5js/easyposenet/)
+      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/easyposenet/)
+    - ml5js-posenet - a starting point for ml5js posenet with multiple people
+      - [code](/machine-learning/ml5js/ml5js-posenet/)
+      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
+    - baseic-ml5js-posenet - as above but without the loops to track multiple people
+      - [code](/machine-learning/ml5js/ml5js-posenet/)
+      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/ml5js/ml5js-posenet/)
   - mediapipe
-    - [mediaPipe starter with smoothing](/machine-learning/mediapipe/poseLandmarks/)
-    - [mediaPipe with bezier curves](/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+    - mediaPipe starter with smoothing -[code](/machine-learning/mediapipe/poseLandmarks/) -[web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks/)
+    - mediaPipe with bezier curves
+      - [code](/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
+      - [web](https://lab.amcc.io/graduate-showcase-2024/machine-learning/mediapipe/poseLandmarks-hand-bezier/)
 
 Machine Learning is the tecnology used to do most AI stuff these days. _ml5js_ amd _MediaPipe_ are 2 leading ways of using machine learning to play on the web.
 
