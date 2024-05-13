@@ -6,7 +6,11 @@ This repo contains web based code, experimenting with different technology.
 Folders are structured by tecnology and then by the code system used. For instance:
 - machine learning
   - ml5js
+    - getting started
+    - demos
   - mediapipe
+    - getting started
+    - demos
 
  Machine Learning is the tecnology used to do most AI stuff these days. ml5js amd MediaPipe are 2 leading ways of using machine learning to play on the web.
 
